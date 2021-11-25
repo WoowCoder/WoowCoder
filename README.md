@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavel Alexandrovich</h1>
+<h1 align="center">Hi 👋, I'm Pavel </h1>
 <h3 align="center">Я начинающий Front-end разработчик из Ярославля</h3>
 
 - 🔭 Я сейчас работаю над - [FACEBOOK-CLONE](https://github.com/WoowCoder/FACEBOOK-CLONE)
