@@ -3,7 +3,7 @@
 
 - 🔭 Я сейчас работаю над - [FACEBOOK-CLONE](https://github.com/WoowCoder/FACEBOOK-CLONE)
 
-- 🌱 Сейчас я изучаю - **React & Redax**
+- 🌱 Сейчас я изучаю - **React & Redux**
 
 - 📫 Написать мне - **woow.coder@gmail.com**
 
